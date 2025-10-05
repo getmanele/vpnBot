@@ -289,7 +289,7 @@ const VPN_PROVIDERS = {
     "surfshark": {
         "name": "Surfshark VPN",
         "description": "Бюджетная VPN с неограниченными устройствами",
-        "ref_link": "https://surfshark.com/",
+        "ref_link": "https://bebra.cm/rmgdhvkcl",
         "features": [
             "✓ Неограниченные устройства",
             "✓ CleanWeb защита",
